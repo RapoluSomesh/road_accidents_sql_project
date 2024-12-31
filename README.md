@@ -35,6 +35,8 @@ The data for this project is sourced from the kaggle dataset:
 
 - **Dataset Link:** [road_accident_dataset](https://github.com/RapoluSomesh/road_accidents_sql_project/blob/main/rta_dataset.csv)
 
+- **SQL File link:** [road_accident_sql_project](https://github.com/RapoluSomesh/road_accidents_sql_project/blob/main/road_accidents_sql_project.sql)
+
 ## Schema 
 
 ```sql
