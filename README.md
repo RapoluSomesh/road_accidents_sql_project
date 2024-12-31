@@ -1,1 +1,2 @@
-# road_accidents_sql_project
+# Road Accidents Data Analysis using SQL
+![road accident logo]()
